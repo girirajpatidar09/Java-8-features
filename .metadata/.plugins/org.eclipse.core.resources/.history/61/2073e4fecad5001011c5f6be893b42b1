@@ -1,0 +1,13 @@
+package com.giriraj;
+
+import java.util.List;
+
+public class Demo2 {
+	public static void main(String ar[])
+	{
+		System.out.println("Convert all names to uppercase");
+		List<String> names = List.of("ram", "shyam", "gita");
+		names.stream().forEach((String s1)->System.out.prinrln(s1.toUpperCase()));
+	}
+
+}

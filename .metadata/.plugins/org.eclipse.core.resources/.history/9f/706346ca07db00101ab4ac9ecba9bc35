@@ -1,0 +1,16 @@
+package com.giriraj;
+
+import java.util.List;
+import java.util.stream.Stream;
+
+public class Demo5 {
+	public static void main(String ar[])
+	{
+		System.out.println("Sum of all elements using Strem API");
+		List<Integer> list = List.of(1,2,3,4,5,6);
+		Stream<Integer> streamInteger= list.stream();
+	    Stream<Integer> filterStream= streamInteger.r
+	   // filterStream.forEach((Integer data)->System.out.println(data));
+	}
+
+}

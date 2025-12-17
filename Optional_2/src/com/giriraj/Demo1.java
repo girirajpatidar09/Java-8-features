@@ -1,0 +1,22 @@
+package com.giriraj;
+
+import java.util.Optional;
+
+import com.giriraj.entity.Employee;
+import com.giriraj.utility.GeneratorUtil;
+
+public class Demo1 {
+	public static void main(String ar[])
+	{
+
+	Optional<Employee> optionalEmployee = GeneratorUtil.fetchEmployeeByMarks(60);
+	System.out.println(optionalEmployee);
+
+	/*
+	 * Fetch value from optionalEmployee.
+	 */
+	System.out.println("---GET---");
+	Employee employee = optionalEmployee.get();
+	System.out.println(employee);
+	}
+}

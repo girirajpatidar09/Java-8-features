@@ -1,0 +1,5 @@
+package com.giriraj.entity;
+
+public class Address {
+
+}

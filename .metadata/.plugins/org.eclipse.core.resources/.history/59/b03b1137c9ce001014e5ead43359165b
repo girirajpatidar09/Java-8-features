@@ -1,0 +1,17 @@
+package com.giriraj;
+ class A
+{
+	 public abstract void show();
+	
+}
+
+public class Demo1 {
+	
+	public static void main(String ar[])
+	{
+		A a1 ;
+		
+	}	
+}
+
+

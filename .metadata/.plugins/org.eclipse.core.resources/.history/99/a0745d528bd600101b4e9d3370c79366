@@ -1,0 +1,18 @@
+//How to operate Stream
+package com.giriraj;
+
+import java.util.List;
+import java.util.Optional;
+
+import com.giriraj.entity.Employee;
+import com.giriraj.utility.GeneratorUtil;
+
+public class Demo3 {
+	public static void main(String[] args) {
+		
+		
+		
+		
+	}
+
+}

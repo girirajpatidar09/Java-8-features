@@ -1,0 +1,6 @@
+package com.giriraj;
+
+public class Snippet {
+	Find names starting with letter 'A'
+}
+

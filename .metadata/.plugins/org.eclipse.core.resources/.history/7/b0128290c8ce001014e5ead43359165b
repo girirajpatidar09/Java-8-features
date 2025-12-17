@@ -1,0 +1,15 @@
+package com.giriraj;
+abstract class vehicel
+{
+	
+}
+
+public class Demo1 {
+	
+	public static void main(String ar[])
+	{
+		
+	}
+}
+
+
