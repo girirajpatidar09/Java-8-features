@@ -1,9 +1,0 @@
-package com.giriraj;
-
-public class Demo3 {
-	public static void main(String ar[])
-	{
-		System.out.println("Find names starting with letter 'A'");
-	}
-
-}
